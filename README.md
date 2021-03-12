@@ -2,6 +2,8 @@
 
 This is simple CLI tool to create JSONPatch files and apply JSONPatch files to json.
 
+See [http://jsonpatch.com/](jsonpatch.com/)
+
 ### Installation
 
 ### Usage
