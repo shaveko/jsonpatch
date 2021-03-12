@@ -1,0 +1,18 @@
+{
+  "name": "jsonpatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "jsonpatch": "./index.js"
+  },
+  "author": "Andrey Shaveko",
+  "license": "GNU",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "fast-json-patch": "^3.0.0-1"
+  }
+}
