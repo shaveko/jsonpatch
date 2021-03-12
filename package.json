@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaveko/jsonpatch.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +14,7 @@
     "jsonpatch": "./index.js"
   },
   "author": "Andrey Shaveko",
-  "license": "GNU",
+  "license": "MIT",
   "dependencies": {
     "commander": "^7.1.0",
     "fast-json-patch": "^3.0.0-1"
