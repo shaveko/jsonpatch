@@ -1,0 +1,24 @@
+[
+  {
+    "op": "remove",
+    "path": "/objectProp/objectPropKey2"
+  },
+  {
+    "op": "add",
+    "path": "/objectProp/objectPropKey3",
+    "value": "objectPropValue3"
+  },
+  {
+    "op": "remove",
+    "path": "/arrayProp/2"
+  },
+  {
+    "op": "remove",
+    "path": "/arrayProp/1"
+  },
+  {
+    "op": "replace",
+    "path": "/numericProp",
+    "value": 2
+  }
+]
