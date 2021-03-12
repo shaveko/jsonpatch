@@ -9,4 +9,5 @@ See [http://jsonpatch.com/](jsonpatch.com/)
 ### Usage
 
 `jsonpatch diff <sourceJson> <targetJson> -o <outputPatchJson>`
+
 `jsonpatch apply <sourceJson> <patchJson> -o <targetJson>`
