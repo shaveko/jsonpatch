@@ -1,0 +1,9 @@
+{
+  "prop": "value",
+  "numericProp": 2,
+  "arrayProp": ["value1"],
+  "objectProp": {
+    "objectPropKey1": "objectPropValue1",
+    "objectPropKey3": "objectPropValue3"
+  }
+}
