@@ -1,2 +1,13 @@
-# jsonpatch
-Jsonpatch cli to create JSONpatch file from json files and apply patch to json files
+### Description
+
+This is simple CLI tool to create JSONPatch files and apply JSONPatch files to json.
+
+See [http://jsonpatch.com/](jsonpatch.com/)
+
+### Installation
+
+### Usage
+
+`jsonpatch diff <sourceJson> <targetJson> -o <outputPatchJson>`
+
+`jsonpatch apply <sourceJson> <patchJson> -o <targetJson>`
